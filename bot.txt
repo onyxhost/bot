@@ -1,0 +1,25 @@
+{
+  "plainText": "Below you can find our full config list currently for sale",
+  "author": {
+    "name": "Config List"
+  },
+  "color": 53380,
+  "thumbnail": "https://i.imgur.com/KGJq5yr.png",
+  "fields": [
+    {
+      "name": "Test",
+      "value": "",
+      "inline": true
+    },
+    {
+      "name": "Test",
+      "value": "",
+      "inline": true
+    },
+    {
+      "name": "Test",
+      "value": "",
+      "inline": true
+    }
+  ]
+}
